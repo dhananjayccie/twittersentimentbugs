@@ -1,0 +1,1 @@
+Keep track of Twitter Sentiment bugs. We're only using the "Issues" tab.
